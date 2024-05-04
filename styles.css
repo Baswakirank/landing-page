@@ -353,8 +353,7 @@ nav {
 }
 
 .blog__header {
-  
-  background-size:cover;
+  padding: 1rem;
 }
 
 .blog__header h4 {
